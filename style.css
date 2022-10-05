@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+
+li{
+    font-size:30px;
+}
+li:hover{
+    font-weight: 300;
+    font-size: 35px;
+}
+
+body{
+    font-family: Times, Times New Roman, serif;
+}
